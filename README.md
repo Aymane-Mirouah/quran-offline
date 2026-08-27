@@ -1,17 +1,43 @@
-# quran_player
+# قرآن Offline 🕌
 
-A new Flutter project.
+An offline Quran MP3 player built with Flutter, featuring a modern Material Design 3 interface.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- 🎧 Listen to all 114 surahs recited by Sheikh Mishary Rashid Alafasy
+- 📴 Surahs 85-114 available offline (no internet needed)
+- 🌐 Stream surahs 1-84 online or download them for offline use
+- 🌙 Light & dark theme following your phone's system theme
+- ⏱️ Sleep timer (15, 30, 45, 60, 120 minutes)
+- 🔁 Loop, shuffle, and normal play modes
+- 🔖 Bookmark your favorite surahs
+- 🔔 Background playback with notification controls
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Coming soon
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Download
+
+Download the latest APK from the [Releases](https://github.com/Aymane-Mirouah/quran-offline/releases) page.
+
+## Built With
+
+- [Flutter](https://flutter.dev)
+- [just_audio](https://pub.dev/packages/just_audio)
+- [just_audio_background](https://pub.dev/packages/just_audio_background)
+- [provider](https://pub.dev/packages/provider)
+- [dynamic_color](https://pub.dev/packages/dynamic_color)
+
+## Reciter
+
+All surahs are recited by **Sheikh Mishary Rashid Alafasy** (مشاري راشد العفاسي).
+
+Audio source: [QuranicAudio.com](https://quranicaudio.com)
+
+## License
+
+MIT License — see [LICENSE](LICENSE) file for details.
+
+
+
