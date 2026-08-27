@@ -1,0 +1,5 @@
+-keep class com.ryanheise.** { *; }
+-keep class com.google.android.exoplayer2.** { *; }
+-dontwarn com.google.android.exoplayer2.**
+-keep class androidx.media.** { *; }
+-dontwarn androidx.media.**
