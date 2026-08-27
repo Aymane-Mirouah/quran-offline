@@ -1,4 +1,4 @@
-# قرآن Offline 🕌
+# قرآن Offline 
 
 An offline Quran MP3 player built with Flutter, featuring a modern Material Design 3 interface.
 
@@ -19,7 +19,11 @@ Coming soon
 
 ## Download
 
-Download the latest APK from the [Releases](https://github.com/Aymane-Mirouah/quran-offline/releases) page.
+<a href="https://github.com/Aymane-Mirouah/quran-offline/releases/download/v1.0.0/quran-offline-v1.0.0.apk">
+  <img src="https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android" alt="Download APK"/>
+</a>
+
+> Requires Android 5.0+. Enable "Install from unknown sources" in your phone settings before installing.
 
 ## Built With
 
