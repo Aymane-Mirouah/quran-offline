@@ -91,7 +91,7 @@ class SettingsScreen extends StatelessWidget {
                   ),
                   const SizedBox(height: 16),
                   Text(
-                    'هذا التطبيق مجاني ومفتوح المصدر، وهو صدقة جارية عن روح عمي عبد الفتاح رحمه الله. نسألكم الدعاء له بالرحمة والمغفرة ولجميع المسلمين والمسلمات.',
+                    'هذا التطبيق مجاني ومفتوح المصدر، وهو صدقة جارية عن روح عمي رحمه الله. نسألكم الدعاء له بالرحمة والمغفرة ولجميع المسلمين والمسلمات.',
                     textAlign: TextAlign.center,
                     textDirection: TextDirection.rtl,
                     style: TextStyle(
