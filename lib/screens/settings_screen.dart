@@ -119,7 +119,7 @@ class SettingsScreen extends StatelessWidget {
                   ),
                   const SizedBox(height: 12),
                   Text(
-                    'V 1.0.0',
+                    'v 1.0.2',
                     style: TextStyle(
                       color: scheme.onSurfaceVariant,
                       fontSize: 12,
