@@ -2,7 +2,7 @@
   <img src="assets/icon/app_icon.png" width="100" alt="Quran Offline"/>
 </p>
 
-# قرآن Offline 🕌
+# Quran Offline 
 
 An offline Quran MP3 player built with Flutter, featuring a modern Material Design 3 interface.
 
@@ -29,7 +29,7 @@ An offline Quran MP3 player built with Flutter, featuring a modern Material Desi
 
 ## Download
 
-<a href="https://github.com/Aymane-Mirouah/quran-offline/releases/download/v1.0.0/quran-offline-v1.0.0.apk">
+<a href="https://github.com/Aymane-Mirouah/quran-offline/releases/download/v1.0.2/quran-offline-v1.0.2.apk">
   <img src="https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android" alt="Download APK"/>
 </a>
 
